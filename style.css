@@ -1,0 +1,32 @@
+p{
+  /* change the color of text */
+  color: #FE9375;
+  background-color:#A5E8A4;
+}
+h1{
+  color:#A4E8D8;
+    background-color:#BDA4E8;
+}
+h2{
+  color:#E85448;
+    background-color:#329067;
+}
+h3{
+  color:#5156CF;
+  background-color:#2F842B;
+}
+h4{
+  color:#EA118A;
+  background-color:#11EAD9;
+}
+h5{
+  color:#B111EA;
+  background-color:#EAA011;
+}
+h6{
+  color:#146578;
+  background-color:#A0B49A;
+}
+body{
+  background-color:pink;
+}
